@@ -4,4 +4,4 @@ Si quieres hablar conmigo, aquí tienes mi <a href="https://discord.gg/HJvgmCRpG
 Ten un buen día :D
 <br>
 <br>
-Página web: <a href="https://mvp-savyn.github.io/Setting-up-Windows/" target="_blank">https://mvp-savyn.github.io/Setting-up-Windows/</a>
+Página web: https://mvp-savyn.github.io/Setting-up-Windows/
